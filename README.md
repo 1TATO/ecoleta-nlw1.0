@@ -8,8 +8,8 @@
   </a>
   
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/DanielObara/NLW-1.0/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/DanielObara/NLW-1.0?style=social">
+   <a href="https://github.com/1TATO/NLW-1.0/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/1TATO/NLW-1.0?style=social">
   </a>
 </p>
 
