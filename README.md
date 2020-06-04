@@ -30,6 +30,7 @@ The project connects people to companies that collect organic or inorganic waste
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
+- [Typescript](https://www.typescriptlang.org)
 
 ## :gift: Layout
 To access full layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=0%3A1)
